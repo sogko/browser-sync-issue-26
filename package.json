@@ -1,0 +1,32 @@
+{
+  "name": "browser-sync-issue-26",
+  "version": "0.0.0",
+  "description": "browser-sync-issue-26 =====================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sogko/browser-sync-issue-26.git"
+  },
+  "author": {
+    "name": "Hafiz Ismail",
+    "email": "hafiz@wehavefaces.net",
+    "url": "http://wehavefaces.net"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sogko/browser-sync-issue-26/issues"
+  },
+  "homepage": "https://github.com/sogko/browser-sync-issue-26",
+  "dependencies": {
+    "browser-sync": "^1.3.5",
+    "express": "^4.8.3",
+    "gulp": "^3.8.7",
+    "gulp-autoprefixer": "0.0.8",
+    "gulp-minify-css": "^0.3.7",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^0.7.3"
+  }
+}
